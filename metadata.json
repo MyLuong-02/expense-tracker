@@ -1,0 +1,5 @@
+{
+  "name": "ExpenseTracker",
+  "description": "A full-stack application to track daily expenses using AI to parse text and receipts.",
+  "requestFramePermissions": []
+}
